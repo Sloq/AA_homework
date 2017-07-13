@@ -1,0 +1,22 @@
+body {
+  width: 90%;
+}
+
+div {
+  background-color: lightGrey;
+  padding: 20px;
+  border: solid black 2px;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+h1#title {
+  font-size: 20px;
+  text-align: center;
+}
+
+button {
+  margin: 2px;
+}
